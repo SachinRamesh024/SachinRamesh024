@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;Welcome+to+my+GitHub+Universe" alt="typing-banner" />
 </h1>
 
+<!-- profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinramesh024&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 <!-- fun animated robot -->
 <p align="center">
   <img src="https://media.tenor.com/qzDypEjzjVwAAAAj/cute-dance.gif" width="80" alt="dancing-robot" />
@@ -15,10 +20,6 @@
 <!-- coding GIF -->
 <p align="center">
   <img alt="coding-gif" width="400" src="https://csccouncil.org/assets/img/team/cmmc.gif" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sachinramesh024&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ## 🚀 About Me
